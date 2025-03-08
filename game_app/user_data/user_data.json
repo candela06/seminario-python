@@ -1,0 +1,58 @@
+[
+    {
+        "username": "cande",
+        "full_name": "candela",
+        "email": "cande@gmail",
+        "birth_date": "2024-06-07",
+        "gender": "Femenino"
+    },
+    {
+        "username": "karen",
+        "full_name": "karen",
+        "email": "karen@gmail",
+        "birth_date": "2024-06-07",
+        "gender": "Femenino"
+    },
+    {
+        "username": "manu",
+        "full_name": "manu",
+        "email": "manu@gmail.com",
+        "birth_date": "2024-06-14",
+        "gender": "Masculino"
+    },
+    {
+        "username": "male",
+        "full_name": "malena",
+        "email": "male@gmail.com",
+        "birth_date": "2024-06-14",
+        "gender": "Femenino"
+    },
+    {
+        "username": "charmy",
+        "full_name": "charmy",
+        "email": "charmy@gmail.com",
+        "birth_date": "2024-06-18",
+        "gender": "Femenino"
+    },
+    {
+        "username": "melany",
+        "full_name": "melany silva",
+        "email": "melany@gmail.com",
+        "birth_date": "2024-06-18",
+        "gender": "Femenino"
+    },
+    {
+        "username": "juan",
+        "full_name": "juan f",
+        "email": "juan@gmail.com",
+        "birth_date": "2024-06-18",
+        "gender": "Masculino"
+    },
+    {
+        "username": "pedrito",
+        "full_name": "pedro",
+        "email": "pedrito@gmail.com",
+        "birth_date": "2024-06-18",
+        "gender": "Masculino"
+    }
+]

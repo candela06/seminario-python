@@ -1,0 +1,53 @@
+Nombre,Ubicación,Superficie (km²),Profundidad máxima (m),Profundidad media (m),Coordenadas (GMS),Latitud_GD,Longitud_GD,Sup Tamaño,Sup Tamaño
+Lago Argentino,Santa Cruz,1435,500,150,"50°14'53""S 72°38'43""O",-50.248056,-72.645278,grande
+Lago Viedma,Santa Cruz,1166,,,"49°37'27""S 72°29'42""O",-49.624167,-72.495000,grande
+Lago Nahuel Huapi,Río Negro / Neuquén,540,464,157,"40°51'16""S 71°36'58""O",-40.854444,-71.616111,grande
+Lago Musters,Chubut,427,39,20,"45°24'53""S 69°11'52""O",-45.414722,-69.197778,grande
+Lago Cardiel,Santa Cruz,358,,49,"48°55'3""S 71°12'53""O",-48.917500,-71.214722,grande
+Lago Epecuén,Buenos Aires,156,11,7,"37°7'45""S 62°51'53""O",-37.129167,-62.864722,grande
+Lago Pellegrini,Río Negro,116,,,"38°42'25""S 67°58'23""O",-38.706944,-67.973056,grande
+Lago Strobel,Santa Cruz,100,,,"48°25'58""S 71°11'25""O",-48.432778,-71.190278,grande
+Lago Fontana,Chubut,84,,79,"44°55'17""S 71°29'45""O",-44.921389,-71.495833,grande
+Lago Huechulafquen,Neuquén,84,,142,"39°46'28""S 71°30'32""O",-39.774444,-71.508889,grande
+Lago Traful,Neuquén,78,,,"40°37'50""S 71°24'55""O",-40.630556,-71.415278,grande
+Lago La Plata,Chubut,73,,,"44°51'33""S 71°49'12""O",-44.859167,-71.820000,grande
+Lago Ghío,Santa Cruz,65,,,"47°17'18""S 71°31'49""O",-47.288333,-71.530278,grande
+Lago Menéndez,Chubut,58,287,149,"42°41'28""S 71°51'45""O",-42.691111,-71.862500,medio
+Lago Aluminé,Neuquén,58,165,64,"38°55'18""S 71°7'35""O",-38.921667,-71.126389,medio
+Lago Lácar,Neuquén,53,277,166,"40°9'45""S 71°26'11""O",-40.162500,-71.436389,medio
+Lago Yehuin,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",49,,43,"54°24'43""S 67°42'55""O",-54.411944,-67.715278,medio
+Lago Quiroga,Santa Cruz,47,,,"48°25'1""S 71°33'3""O",-48.416944,-71.550833,medio
+Lago Puelo,Chubut,47,180,111,"42°9'3""S 71°38'59""O",-42.150833,-71.649722,medio
+Lago Nansen,Santa Cruz,42,,,"47°58'44""S 72°21'11""O",-47.978889,-72.353056,medio
+Lago Belgrano,Santa Cruz,42,,,"47°50'38""S 72°8'34""O",-47.843889,-72.142778,medio
+Lago Futalaufquen,Chubut,42,168,101,"42°49'42""S 71°40'31""O",-42.828333,-71.675278,medio
+Lago Posadas,Santa Cruz,41,,31,"47°29'40""S 71°49'55""O",-47.494444,-71.831944,medio
+Lago Espejo,Neuquén,40,,,"40°40'33""S 71°42'40""O",-40.675833,-71.711111,medio
+Lago Mascardi,Río Negro,39,218,111,"41°20'46""S 71°32'52""O",-41.346111,-71.547778,medio
+Lago Chepelmut,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",38,,,"54°23'42""S 67°35'36""O",-54.395000,-67.593333,medio
+Lago Salitroso o Sucio,Santa Cruz,37,,,"47°30'0""S 71°36'48""O",-47.500000,-71.613333,medio
+Lago Lolog,Neuquén,37,,,"40°2'10""S 71°32'11""O",-40.036111,-71.536389,medio
+Lago Tar,Santa Cruz,30,,,"49°13'42""S 72°1'2""O",-49.228333,-72.017222,medio
+Lago Tromen,Neuquén,29,,69,"39°31'33""S 71°26'52""O",-39.525833,-71.447778,medio
+Lago Blanco,Chubut,28,,,"45°53'16""S 71°13'25""O",-45.887778,-71.223611,medio
+Lago Quillén,Neuquén,26,,,"39°24'41""S 71°18'52""O",-39.411389,-71.314444,medio
+Lago Asador o Guitarra,Santa Cruz,23,,,"47°51'45""S 71°28'13""O",-47.862500,-71.470278,medio
+Lago Rivadavia,Chubut,23,147,104,"42°36'39""S 71°39'59""O",-42.610833,-71.666389,medio
+Lago Moquehue,Neuquén,21,,,"38°54'16""S 71°16'26""O",-38.904444,-71.273889,medio
+Lago Correntoso,Neuquén,20,,,"40°42'8""S 71°39'35""O",-40.702222,-71.659722,medio
+Lago Río Chico,Chubut,20,,,"45°35'40""S 68°32'52""O",-45.594444,-68.547778,medio
+Lago Quiroga Chico,Santa Cruz,20,,,"48°29'57""S 71°35'5""O",-48.499167,-71.584722,medio
+Lago Epuyén,Chubut,17,148,92,"42°11'15""S 71°30'24""O",-42.187500,-71.506667,chico
+Lago Gutiérrez,Río Negro,17,111,80,"41°12'28""S 71°25'13""O",-41.207778,-71.420278,chico
+Lago Cholila,Chubut,17,108,49,"42°27'31""S 71°40'9""O",-42.458611,-71.669167,chico
+Lago Paimún,Neuquén,16,,66,"39°43'27""S 71°35'2""O",-39.724167,-71.583889,chico
+Lago Azara,Santa Cruz,16,,,"47°50'45""S 72°16'13""O",-47.845833,-72.270278,chico
+Lago Burmeister,Santa Cruz,14,,,"47°57'20""S 72°12'9""O",-47.955556,-72.202500,chico
+Lago Onelli,Santa Cruz,14,,,"50°6'30""S 73°20'59""O",-50.108333,-73.349722,chico
+Lago Meliquina,Neuquén,14,,,"40°19'60""S 71°19'10""O",-40.333333,-71.319444,chico
+Lago Perito Moreno,Río Negro,12,,,"41°3'58""S 71°32'28""O",-41.066111,-71.541111,chico
+Lago Currhué,Neuquén,12,,,"39°50'24""S 71°30'27""O",-39.840000,-71.507500,chico
+Lago Falkner,Neuquén,11,,,"40°29'6""S 71°28'33""O",-40.485000,-71.475833,chico
+Lago Pico Nº 1,Chubut,10,,,"44°14'31""S 71°30'8""O",-44.241944,-71.502222,chico
+Lago Río Bueno,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",10,,,"54°41'19""S 65°48'23""O",-54.688611,-65.806389,chico
+Lago Rosario,Chubut,10,57,25,"43°15'36""S 71°20'48""O",-43.260000,-71.346667,chico
